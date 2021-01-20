@@ -1,2 +1,3 @@
-# txlabs-calculator
-This is testing calcultor.
+# Calculator Package
+
+# This is calculator package for addition and substraction.
